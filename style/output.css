@@ -2728,7 +2728,7 @@ h1,
 }
 
 .curvy {
-  background-image: url("/images/bg-curvy-mobile.svg");
+  background-image: url("../images/bg-curvy-mobile.svg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: contain;
@@ -2736,7 +2736,7 @@ h1,
 
 @media screen and (width > 768px) {
   .curvy {
-    background-image: url("/images/bg-curvy-desktop.svg");
+    background-image: url("../images/bg-curvy-desktop.svg");
     background-size: cover;
   }
 }
